@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-projects/static/css/main.bb97f6bc.chunk.css",
-    "main.js": "/portfolio-projects/static/js/main.a9076a06.chunk.js",
-    "main.js.map": "/portfolio-projects/static/js/main.a9076a06.chunk.js.map",
-    "runtime-main.js": "/portfolio-projects/static/js/runtime-main.c450b348.js",
-    "runtime-main.js.map": "/portfolio-projects/static/js/runtime-main.c450b348.js.map",
-    "static/css/2.69121389.chunk.css": "/portfolio-projects/static/css/2.69121389.chunk.css",
-    "static/js/2.5cc7bc71.chunk.js": "/portfolio-projects/static/js/2.5cc7bc71.chunk.js",
-    "static/js/2.5cc7bc71.chunk.js.map": "/portfolio-projects/static/js/2.5cc7bc71.chunk.js.map",
-    "index.html": "/portfolio-projects/index.html",
-    "precache-manifest.46e34c88dfe9c98c95059cd31287e391.js": "/portfolio-projects/precache-manifest.46e34c88dfe9c98c95059cd31287e391.js",
-    "service-worker.js": "/portfolio-projects/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/portfolio-projects/static/css/2.69121389.chunk.css.map",
-    "static/css/main.bb97f6bc.chunk.css.map": "/portfolio-projects/static/css/main.bb97f6bc.chunk.css.map",
-    "static/js/2.5cc7bc71.chunk.js.LICENSE.txt": "/portfolio-projects/static/js/2.5cc7bc71.chunk.js.LICENSE.txt",
-    "static/media/NotesApp.png": "/portfolio-projects/static/media/NotesApp.97006687.png",
-    "static/media/Project_Saigon_IMG.png": "/portfolio-projects/static/media/Project_Saigon_IMG.c912ea81.png",
-    "static/media/TicTacToe.png": "/portfolio-projects/static/media/TicTacToe.7f8e612c.png"
+    "main.css": "/static/css/main.bd28d012.chunk.css",
+    "main.js": "/static/js/main.cfb9c6f7.chunk.js",
+    "main.js.map": "/static/js/main.cfb9c6f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd51f6bd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd51f6bd.js.map",
+    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
+    "static/js/2.89ef92b6.chunk.js": "/static/js/2.89ef92b6.chunk.js",
+    "static/js/2.89ef92b6.chunk.js.map": "/static/js/2.89ef92b6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a220396aeac156cae3135493d7ed0f2b.js": "/precache-manifest.a220396aeac156cae3135493d7ed0f2b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
+    "static/css/main.bd28d012.chunk.css.map": "/static/css/main.bd28d012.chunk.css.map",
+    "static/js/2.89ef92b6.chunk.js.LICENSE.txt": "/static/js/2.89ef92b6.chunk.js.LICENSE.txt",
+    "static/media/NotesApp.png": "/static/media/NotesApp.97006687.png",
+    "static/media/Project_Saigon_IMG.png": "/static/media/Project_Saigon_IMG.c912ea81.png",
+    "static/media/TicTacToe.png": "/static/media/TicTacToe.7f8e612c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c450b348.js",
+    "static/js/runtime-main.cd51f6bd.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.5cc7bc71.chunk.js",
-    "static/css/main.bb97f6bc.chunk.css",
-    "static/js/main.a9076a06.chunk.js"
+    "static/js/2.89ef92b6.chunk.js",
+    "static/css/main.bd28d012.chunk.css",
+    "static/js/main.cfb9c6f7.chunk.js"
   ]
 }
